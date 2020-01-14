@@ -1,0 +1,4 @@
+coffeechain/node_modules
+coffeechain/build/
+.DS_Store
+coffeechain/package-lock.json
