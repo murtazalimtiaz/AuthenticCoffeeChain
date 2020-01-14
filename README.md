@@ -41,7 +41,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone this repository:
 
 ```
-git clone https://github.com/murtazalimtiaz/AuthenticSupplyChain.git
+git clone https://github.com/murtazalimtiaz/AuthenticCoffeeChain.git
 ```
 
 Change directory to ```coffeechain``` folder and install all requisite npm packages (as listed in ```package.json```):
